@@ -1,7 +1,7 @@
 # RDBMS-PROJECTS
 
 ## RDBMS Project Repository
-This repository contains a collection of assignments completed for the RDBMS (Relational Database Management Systems) class. Each assignment focuses on analyzing different datasets obtained from Kaggle, aiming to gain insights into various aspects of database management, including structured storage, data integrity, querying and reporting, data relationships, and scalability and performance.
+This repository contains a collection of assignments completed for the RDBMS (Relational Database Management Systems) class. Each assignment focuses on analyzing different datasets obtained from Kaggle, aiming to gain insights into various aspects of database management.
 
 ### Technologies Used
 **PostgreSQL:** The projects were implemented using the PostgreSQL database management system.
