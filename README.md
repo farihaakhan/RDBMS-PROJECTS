@@ -10,7 +10,7 @@ DBeaver: The projects utilized DBeaver as the primary tool for interacting with 
 ### Projects Overview
 The repository includes the following assignments:
 
--- **Structured Storage:** The projects explore techniques for organizing data in a structured manner within the database, ensuring efficient storage and retrieval.
+- **Structured Storage:** The projects explore techniques for organizing data in a structured manner within the database, ensuring efficient storage and retrieval.
 
 -- **Data Integrity:** The objective of the projects is to maintain data integrity by implementing appropriate constraints, such as primary keys, foreign keys, and data validation rules.
 
